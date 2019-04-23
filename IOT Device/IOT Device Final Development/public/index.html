@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf8"/>
+        <title>Trivial Connected Device Control Panel</title>
+	<script src="/socket.io/socket.io.js"></script>
+        <script src="client.js"></script>
+    </head>
+    <body style:"background-color:powderblue;">
+        <center><h1>Mom Alarm<h1>
+        <table style="width:100%; max-width: 500px; height:100px;">
+            <tr>
+                <td>
+                    <center><button onclick="alarmON()">Turn on Alarm</button>
+                </td>
+                <td>
+                    <center><button onclick="alarmOFF()">Turn off Alarm</button>
+                </td>
+            </tr>
+        </table>
+        <center><h2>19 and above</h2>
+        <script type="text/javascript">Displaytime();
+        </script>
+        <body onload=Displaytime();>
+        <span id="time"></span>
+        </body>
+        <form action="/action_page.php">
+        Set time: <input type="text" name="usrname"><br>
+        <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
