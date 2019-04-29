@@ -1,6 +1,6 @@
 1. Earthquake Detector
 https://circuitdigest.com/microcontroller-projects/arduino-earthquake-detector-alarm-circuit
-Idea: A simple box that has an accelerometor that detects whenever tbere is vibrations ("earthquake") on the platform is in. When the earthquake occurs,  the user gets notified and the website displays an error message.
+Idea: A simple box that has an accelerometor that detects whenever there are vibrations ("earthquake") on the platform it is in. When the earthquake occurs,  the user gets notified through the mail notifier and the website displays an error message.
      
          
 2. Security Camera Alert System
