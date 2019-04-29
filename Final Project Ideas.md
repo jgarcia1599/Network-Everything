@@ -1,8 +1,9 @@
 1. Earthquake Detector
 https://circuitdigest.com/microcontroller-projects/arduino-earthquake-detector-alarm-circuit
 Idea: A simple box that has an accelerometor that detects whenever tbere is vibrations ("earthquake") on the platform is in. When the earthquake occurs,  the user gets notified and the website displays an error message.
-        
-2.Security Camera Alert System
+     
+         
+2. Security Camera Alert System
 https://pimylifeup.com/raspberry-pi-security-camera/
 https://pimylifeup.com/raspberry-pi-twitter-bot/
     
