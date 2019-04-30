@@ -21,6 +21,7 @@ Software Components:
     
 Possible Software Extensions:
 - Database of all intruders: The website can have a page that contains a picture of all the intruders and show them for public awareness
+     
 -TwitterBot: There can be a public twitter account that tweets all followers whenever there is an intruder. This can be used instead or in conjuction with the mail notifier. 
 
 
