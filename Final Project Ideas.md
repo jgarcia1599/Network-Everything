@@ -23,4 +23,11 @@ Possible Software Extensions:
 - Use computor vision to distinguish happy intruder and an angry intruder:
 https://cloud.google.com/vision/
 
+Cool links:
+https://medium.com/the-unitgb/building-a-real-time-smile-detection-app-with-deeplearn-js-820eb48e09b7
+https://medium.com/@muehler.v/node-js-face-recognition-js-simple-and-robust-face-recognition-using-deep-learning-ea5ba8e852
+https://www.sitepoint.com/face-detection-nodejs-opencv/
+https://github.com/yosuke-furukawa/smile-face-detector
+
+
 
