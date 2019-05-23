@@ -4,7 +4,7 @@
 
 ## Overview
 
-For my Final Project, I wanted to create a Home Alert Security System (HASS) that alerted users whenever someone would approach their home. The HASS has a camera, a speaker and three IR distance measuring sensors. Whenever someone approaches HASS, an alert message is emitted from the speaker that scares the users off by saying &quot;Get away from me&quot;. I wanted the HASS to portray something resembling a personality by making the &quot;Get away from me&quot; alert message a little amusing and not that scary. In addition, a tab opens up whenever the user appr
+For my Final Project, I wanted to create a Home Alert Security System (HASS) that alerted users whenever someone would approach their home. The HASS has a camera, a speaker and three IR distance measuring sensors. Whenever someone approaches HASS, an alert message is emitted from the speaker that scares the users off by saying &quot;Get away from me&quot;. I wanted the HASS to portray something resembling a personality by making the &quot;Get away from me&quot; alert message a little amusing and not that scary. In addition, a tab opens up whenever the user approaches the HASS with the livestream of the camera, giving the owner a visual image of who or what is attempting against the safety of their home.
 
 ## Pictures
 
