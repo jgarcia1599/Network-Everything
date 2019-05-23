@@ -4,7 +4,7 @@
 
 ## Overview
 
-For my Final Project, I wanted to create a Home Alert Security System (HASS) that alerted users whenever someone would approach their home. The HASS has a camera, a speaker and three IR distance measuring sensors. Whenever someone approaches HASS, an alert message is emitted from the speaker that scares the users off by saying &quot;Get away from me&quot;. I wanted the HASS to portray something resembling a personality by making the &quot;Get away from me&quot; alert message a little amusing and not that scary. In addition, a tab opens up whenever the user approaches the HASS with the livestream of the camera, giving the owner a visual image of who or what is attempting against the safety of their home.
+For my Final Project, I wanted to create a Home Alert Security System (HASS) that alerted users whenever someone would approach their home. The HASS has a camera, a speaker and three IR distance measuring sensors. Whenever someone approaches HASS, an alert message is emitted from the speaker that scares the users off by saying &quot;Get away from me&quot;. I wanted the HASS to portray something resembling of a personality by making the &quot;Get away from me&quot; alert message a little amusing and not that scary. In addition, a tab opens up whenever the user approaches the HASS with the livestream of the camera, giving the owner a visual image of who or what is attempting against the safety of their home.
 
 ## Pictures
 
@@ -51,7 +51,7 @@ This is what the user would see if they entered the appropiate URL.
 
 ## Process and Implementation
 
-Originally, I wanted the HASS to run entirely on a Raspberry Pi. After I soldered all the components to a prototyping board, the code wasn&#39;t working at all the night before the showcase which makes me thing that maybe one of the components was not soldered properly. As such, I did a last minute fix to this issue by quickly emulating the same hardware schematics on an Arduino MKR101 which is a piece of hardware we were more familiar with throughout the semester.
+Originally, I wanted the HASS to run entirely on a Raspberry Pi. After I soldered all the components to a prototyping board, the code wasn&#39;t working at all the night before the showcase which makes me thing that maybe one of the components was not soldered properly. As such, I did a last minute fix to this issue by quickly emulating the same hardware schematics on an Arduino MKR101, which is a piece of hardware we were more familiar of throughout the semester.
 
 Another issue that came in the last instances of the project&#39;s implementation was that I didn&#39;t quite remembered where to put the condition that detects the message from the arduino in the server.js code. As such, I went back to one of the examples we did in class &quot;UDPandHTTPServer&quot; in order to implement the same logical flow on my server code. The sensors were basically detecting a boolean condition, whether someone was within range or not, which resembles the boolean logic of clicking a button. Therefore, using this class example proved to be imperative for my project&#39;s execution.
 
