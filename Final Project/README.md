@@ -8,6 +8,8 @@ For my Final Project, I wanted to create a Home Alert Security System (HASS) tha
 
 ## Pictures
 
+![image](https://github.com/jgarcia1599/Network-Everything/blob/master/Final%20Project/Picture/IMG-0212.JPG)
+
 ## Hardware and Software Schematics
 
 ## Parts
