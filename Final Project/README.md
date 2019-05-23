@@ -18,7 +18,7 @@ As seen in the picture below, the device was completely portable.
 
 This is what the user would see if they entered the appropiate URL.
 
-![image] (https://github.com/jgarcia1599/Network-Everything/blob/master/Final%20Project/Picture/IMG-0214.JPG)
+![image](https://github.com/jgarcia1599/Network-Everything/blob/master/Final%20Project/Picture/IMG-0214.JPG)
 
 ## Hardware and Software Schematics
 
