@@ -1,25 +1,25 @@
 Final Project for Network Everything Spring 2019
 
-Project 3 Final Documentation
+## Project 3 Final Documentation
 
-Overview
+## Overview
 
 For my Final Project, I wanted to create a Home Alert Security System (HASS) that alerted users whenever someone would approach their home. The HASS has a camera, a speaker and three IR distance measuring sensors. Whenever someone approaches HASS, an alert message is emitted from the speaker that scares the users off by saying &quot;Get away from me&quot;. I wanted the HASS to portray something resembling a personality by making the &quot;Get away from me&quot; alert message a little amusing and not that scary. In addition, a tab opens up whenever the user appr
 
-Pictures
+## Pictures
 
-Hardware and Software Schematics
+## Hardware and Software Schematics
 
-Parts
+## Parts
 
-Software
+## Software
 
 - Arduino code that reads the analog input from the three sensors and sends a message to the server using udp
 - Server code that interfaces between the arduino (using the udp library) and the web browser (using websockets)
 - Client.js code that displays the appropriate image and sound depending on the message received (&quot;near&quot; or &quot;far&quot;) by the server. Also, if the near message is received by the server, a tab that has the livestream of the camera will be opened.
 - Index.html that displays the image on the the web browser depending on the instructions indicated by the client.js code.
 
-Hardware
+## Hardware
 
 - Arduino MKR1010
   - Three IR distance measuring sensors
@@ -29,7 +29,7 @@ Hardware
 - A USB battery pack that makes the HASS portable
 - A box made from  acrylic that keeps everything together designed with Adobe Illustrator
 
-Process and Implementation
+## Process and Implementation
 
 Originally, I wanted the HASS to run entirely on a Raspberry Pi. After I soldered all the components to a prototyping board, the code wasn&#39;t working at all the night before the showcase which makes me thing that maybe one of the components was not soldered properly. As such, I did a last minute fix to this issue by quickly emulating the same hardware schematics on an Arduino MKR101 which is a piece of hardware we were more familiar with throughout the semester.
 
