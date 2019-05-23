@@ -14,10 +14,10 @@ Parts
 
 Software
 
-- --Arduino code that reads the analog input from the three sensors and sends a message to the server using udp
-- --Server code that interfaces between the arduino (using the udp library) and the web browser (using websockets)
-- --Client.js code that displays the appropriate image and sound depending on the message received (&quot;near&quot; or &quot;far&quot;) by the server. Also, if the near message is received by the server, a tab that has the livestream of the camera will be opened.
-- --Index.html that displays the image on the the web browser depending on the instructions indicated by the client.js code.
+- Arduino code that reads the analog input from the three sensors and sends a message to the server using udp
+- Server code that interfaces between the arduino (using the udp library) and the web browser (using websockets)
+- Client.js code that displays the appropriate image and sound depending on the message received (&quot;near&quot; or &quot;far&quot;) by the server. Also, if the near message is received by the server, a tab that has the livestream of the camera will be opened.
+- Index.html that displays the image on the the web browser depending on the instructions indicated by the client.js code.
 
 Hardware
 
