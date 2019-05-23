@@ -8,9 +8,27 @@ For my Final Project, I wanted to create a Home Alert Security System (HASS) tha
 
 ## Pictures
 
+### Front View
+
+As seen in the picture below, the device was completely portable. 
+
 ![image](https://github.com/jgarcia1599/Network-Everything/blob/master/Final%20Project/Picture/IMG-0212.JPG)
 
+### Browser view
+
+This is what the user would see if they entered the appropiate URL.
+
+![image] (https://github.com/jgarcia1599/Network-Everything/blob/master/Final%20Project/Picture/IMG-0214.JPG)
+
 ## Hardware and Software Schematics
+
+### Hardware
+   
+![image](https://github.com/jgarcia1599/Network-Everything/blob/master/Final%20Project/Picture/IMG-0272.JPG)
+
+### Software  
+   
+![image](https://github.com/jgarcia1599/Network-Everything/blob/master/Final%20Project/Picture/IMG-0273.JPG)
 
 ## Parts
 
